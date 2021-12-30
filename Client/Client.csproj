@@ -12,10 +12,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Content Include="MainLayout.razor.css" />
-    </ItemGroup>
-
-    <ItemGroup>
       <_ContentIncludedByDefault Remove="wwwroot\css\bootstrap\bootstrap.min.css" />
       <_ContentIncludedByDefault Remove="wwwroot\css\bootstrap\bootstrap.min.css.map" />
     </ItemGroup>
